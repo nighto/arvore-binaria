@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "arvore_b.h"
+#include "arvore_binaria.h"
 
 ARVORE_B novoNo(){
 	return ((ARVORE_B)malloc(sizeof(NO)));
