@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#include "arvore_b.c"
+#include "arvore_binaria.c"
 #define TAMANHO_ARRAY 10
 
 int main(void){
